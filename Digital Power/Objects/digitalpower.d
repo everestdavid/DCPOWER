@@ -1,0 +1,16 @@
+.\objects\digitalpower.o: digitalpower.c
+.\objects\digitalpower.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\objects\digitalpower.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\digitalpower.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\digitalpower.o: d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h
+.\objects\digitalpower.o: d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h
+.\objects\digitalpower.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\digitalpower.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\digitalpower.o: d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h
+.\objects\digitalpower.o: Board.h
+.\objects\digitalpower.o: lpc8xx_swm.h
+.\objects\digitalpower.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\digitalpower.o: spi0.h
+.\objects\digitalpower.o: adc.h
+.\objects\digitalpower.o: i2c.h
+.\objects\digitalpower.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

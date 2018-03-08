@@ -1,0 +1,14 @@
+.\objects\i2c.o: i2c.c
+.\objects\i2c.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\objects\i2c.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\i2c.o: d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h
+.\objects\i2c.o: d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h
+.\objects\i2c.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\i2c.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\i2c.o: d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h
+.\objects\i2c.o: lpc8xx_i2c.h
+.\objects\i2c.o: lpc8xx_swm.h
+.\objects\i2c.o: lpc8xx_syscon.h
+.\objects\i2c.o: utilities.h
+.\objects\i2c.o: i2c.h

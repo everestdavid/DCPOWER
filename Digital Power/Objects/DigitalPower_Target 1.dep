@@ -1,0 +1,114 @@
+Dependencies for Project 'DigitalPower', Target 'Target 1': (DO NOT MODIFY !)
+F (.\digitalpower.c)(0x5A997516)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\digitalpower.o --omf_browse .\objects\digitalpower.crf --depend .\objects\digitalpower.d)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x59840DC6)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h)(0x57C8DBC6)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h)(0x57035CE0)
+I (Board.h)(0x5A8BA4FC)
+I (lpc8xx_swm.h)(0x5791D384)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x569DEA3A)
+I (spi0.h)(0x5A6BE0C2)
+I (adc.h)(0x5A75113E)
+I (i2c.h)(0x5A75B178)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x569DEA3A)
+F (.\DigitalPower_LPC824-LPCXpresso.c)(0x5A925539)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\digitalpower_lpc824-lpcxpresso.o --omf_browse .\objects\digitalpower_lpc824-lpcxpresso.crf --depend .\objects\digitalpower_lpc824-lpcxpresso.d)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h)(0x57C8DBC6)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h)(0x53463974)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h)(0x57035CE0)
+I (Board.h)(0x5A8BA4FC)
+I (lpc8xx_swm.h)(0x5791D384)
+F (.\utilities.c)(0x5A6C1A5E)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\utilities.o --omf_browse .\objects\utilities.crf --depend .\objects\utilities.d)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h)(0x57C8DBC6)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h)(0x53463974)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h)(0x57035CE0)
+I (lpc8xx_syscon.h)(0x57B539D4)
+I (lpc8xx_swm.h)(0x5791D384)
+I (lpc8xx_uart.h)(0x56FC92A0)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x569DEA3A)
+F (.\Serial.c)(0x5A4F8C3D)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\serial.o --omf_browse .\objects\serial.crf --depend .\objects\serial.d)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x59840DC6)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h)(0x57C8DBC6)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h)(0x57035CE0)
+I (Board.h)(0x5A8BA4FC)
+I (lpc8xx_swm.h)(0x5791D384)
+I (LPC8xx_uart.h)(0x56FC92A0)
+I (lpc8xx_syscon.h)(0x57B539D4)
+I (utilities.h)(0x5A26A11A)
+F (.\SPI0.c)(0x5A918706)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\spi0.o --omf_browse .\objects\spi0.crf --depend .\objects\spi0.d)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x59840DC6)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h)(0x57C8DBC6)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h)(0x57035CE0)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x569DEA3A)
+I (lpc8xx_syscon.h)(0x57B539D4)
+I (lpc8xx_spi.h)(0x5A6749A4)
+I (spi0.h)(0x5A6BE0C2)
+I (board.h)(0x5A8BA4FC)
+I (lpc8xx_swm.h)(0x5791D384)
+F (.\Keil_Retarget.c)(0x5A463284)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\keil_retarget.o --omf_browse .\objects\keil_retarget.crf --depend .\objects\keil_retarget.d)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\time.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\rt_misc.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+F (.\adc.c)(0x5A99754D)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x59840DC6)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h)(0x57C8DBC6)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h)(0x57035CE0)
+I (lpc8xx_adc.h)(0x5A996C52)
+I (lpc8xx_swm.h)(0x5791D384)
+I (lpc8xx_syscon.h)(0x57B539D4)
+I (adc.h)(0x5A75113E)
+F (.\i2c.c)(0x5A770FE4)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x59840DC6)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h)(0x57C8DBC6)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h)(0x57035CE0)
+I (lpc8xx_i2c.h)(0x5A751642)
+I (lpc8xx_swm.h)(0x5791D384)
+I (lpc8xx_syscon.h)(0x57B539D4)
+I (utilities.h)(0x5A26A11A)
+I (i2c.h)(0x5A75B178)
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x5A50F424)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x59840DC6)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x59840DC6)
+F (d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM0.lib)(0x58AA9908)()
+F (RTE\Device\LPC824M201JHI33\startup_LPC82x.s)(0x5A50E325)(--cpu Cortex-M0+ --pd "__RTX SETA 1" -g --apcs=interwork -I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 518" --pd "_RTE_ SETA 1" --pd "LPC824M201JHI33 SETA 1"--list .\listings\startup_lpc82x.lst --xref -o .\objects\startup_lpc82x.o --depend .\objects\startup_lpc82x.d)
+F (RTE\Device\LPC824M201JHI33\system_LPC82x.c)(0x5A4CEEA2)(-c --cpu Cortex-M0+ -D__RTX -g -O0 --apcs=interwork --split_sections-I "E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE"-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC-I d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include-I d:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -D_RTE_ -DLPC824M201JHI33-o .\objects\system_lpc82x.o --omf_browse .\objects\system_lpc82x.crf --depend .\objects\system_lpc82x.d)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569DEA3A)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h)(0x57C8DBC6)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x53463974)
+I (d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x53463974)
+I (d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h)(0x57035CE0)

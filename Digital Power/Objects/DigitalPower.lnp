@@ -1,0 +1,17 @@
+--cpu Cortex-M0+
+".\objects\digitalpower.o"
+".\objects\digitalpower_lpc824-lpcxpresso.o"
+".\objects\utilities.o"
+".\objects\serial.o"
+".\objects\spi0.o"
+".\objects\keil_retarget.o"
+".\objects\adc.o"
+".\objects\i2c.o"
+".\objects\rtx_conf_cm.o"
+"d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM0.lib"
+".\objects\startup_lpc82x.o"
+".\objects\system_lpc82x.o"
+--strict --scatter ".\Objects\DigitalPower.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\DigitalPower.map" -o .\Objects\DigitalPower.axf

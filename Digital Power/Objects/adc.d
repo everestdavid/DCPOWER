@@ -1,0 +1,13 @@
+.\objects\adc.o: adc.c
+.\objects\adc.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\objects\adc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\adc.o: d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h
+.\objects\adc.o: d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h
+.\objects\adc.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\adc.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\adc.o: d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h
+.\objects\adc.o: lpc8xx_adc.h
+.\objects\adc.o: lpc8xx_swm.h
+.\objects\adc.o: lpc8xx_syscon.h
+.\objects\adc.o: adc.h

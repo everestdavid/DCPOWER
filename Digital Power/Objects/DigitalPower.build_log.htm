@@ -1,0 +1,94 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.18.0.0
+Copyright (C) 2016 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: es Microsoft, Microsoft, LIC=R4HEV-PZAQU-JLVCC-7RXTS-V5YI7-2STRS
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.18
+Toolchain Path:  d:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 1 (build 61)
+Assembler:       Armasm.exe V5.06 update 1 (build 61)
+Linker/Locator:  ArmLink.exe V5.06 update 1 (build 61)
+Library Manager: ArmAr.exe V5.06 update 1 (build 61)
+Hex Converter:   FromElf.exe V5.06 update 1 (build 61)
+CPU DLL:         SARMCM3.DLL V5.18
+Dialog DLL:      DARMCM1.DLL V1.12.0.0
+Target DLL:      UL2CM3.DLL V1.157.5.0
+Dialog DLL:      TARMCM1.DLL V1.9.0.0
+ 
+<h2>Project:</h2>
+E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\DigitalPower.uvprojx
+Project File Date:  02/03/2018
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 1 (build 61)', folder: 'd:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'Target 1'
+compiling DigitalPower_LPC824-LPCXpresso.c...
+compiling utilities.c...
+compiling digitalpower.c...
+digitalpower.c(590): warning:  #550-D: variable "temp" was set but never used
+  	unsigned char temp;
+digitalpower.c: 1 warning, 0 errors
+compiling Serial.c...
+compiling SPI0.c...
+compiling Keil_Retarget.c...
+compiling i2c.c...
+compiling adc.c...
+compiling RTX_Conf_CM.c...
+assembling startup_LPC82x.s...
+compiling system_LPC82x.c...
+linking...
+Program Size: Code=14764 RO-data=840 RW-data=192 ZI-data=4568  
+FromELF: creating hex file...
+".\Objects\DigitalPower.axf" - 0 Error(s), 1 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.1.1.pack
+                ::CMSIS:RTOS:1.0.0 (API)
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: RTOS Version: 1.0.0
+   * Component: Keil RTX Version: 4.81.1
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.LPC800_DFP.1.5.0.pack
+                Keil::Device:Startup:1.0.0
+                NXP LPC800 Series Device Support
+   * Component: Startup Version: 1.0.0
+
+<h2>Collection of Component include folders:</h2>
+  E:\my project\HardWare_KickOff\Digital Control Power supply\FirmWare\Digital Power\RTE
+  d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC
+  d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ::CMSIS:RTOS:1.0.0 (API)
+
+   * Component: ARM::CMSIS:RTOS:Keil RTX:4.81.1
+      Include file:  CMSIS\RTOS\RTX\INC\cmsis_os.h
+      Source file:   CMSIS\RTOS\RTX\Templates\RTX_Conf_CM.c
+      Include file:  CMSIS\RTOS\RTX\UserCodeTemplates\osObjects.h
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\main.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\MailQueue.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\MemPool.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\MsgQueue.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Mutex.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Semaphore.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Thread.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Timer.c
+      Source file:   CMSIS\RTOS\RTX\SRC\ARM\SVC_Table.s
+      Library file:  CMSIS\RTOS\RTX\LIB\ARM\RTX_CM0.lib
+
+   * Component: Keil::Device:Startup:1.0.0
+      Source file:   Device\Source\ARM\startup_LPC82x.s
+      Source file:   Device\Source\system_LPC82x.c
+Build Time Elapsed:  00:00:09
+</pre>
+</body>
+</html>

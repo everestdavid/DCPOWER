@@ -1,0 +1,14 @@
+.\objects\serial.o: Serial.c
+.\objects\serial.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\objects\serial.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\serial.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\serial.o: d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\LPC8xx.h
+.\objects\serial.o: d:\Keil_v5\ARM\CMSIS\Include\core_cm0plus.h
+.\objects\serial.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\serial.o: d:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\serial.o: d:\Keil_v5\ARM\PACK\Keil\LPC800_DFP\1.5.0\Device\Include\system_LPC8xx.h
+.\objects\serial.o: Board.h
+.\objects\serial.o: lpc8xx_swm.h
+.\objects\serial.o: LPC8xx_uart.h
+.\objects\serial.o: lpc8xx_syscon.h
+.\objects\serial.o: utilities.h
